@@ -1,4 +1,7 @@
-### Hi there 👋
+### Whassup? 🐙
+- I use Kotlin, Java, JavaScript, PHP, Bash, SQL
+- I like coconuts and parcels
+- Eating too much, sleeping too little, otherwise I'm fine
 
 <!--
 **cheppsn/cheppsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
