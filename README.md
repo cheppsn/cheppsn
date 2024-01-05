@@ -1,5 +1,5 @@
 ### Whassup? 🐙
-- I use Kotlin, Java, JavaScript, PHP, Bash, SQL
+- I use Kotlin, Java, JavaScript, PHP, Bash, SQL, Python and - if I must - BASIC
 - I like coconuts and parcels
 - Eating too much, sleeping too little, otherwise I'm fine
 
